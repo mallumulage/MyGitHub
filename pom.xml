@@ -2,11 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>Sprint_Nature</artifactId>
+  <groupId>SpringLink</groupId>
+  <artifactId>SpringLInk</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Sprint_Nature</name>
+  <name>SpringLInk</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -92,10 +93,19 @@
     <version>2.5</version>
 </dependency>
 <dependency>
+    <groupId>com.relevantcodes</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>2.41.2</version>
+</dependency>
+<dependency>
+    <groupId>org.freemarker</groupId>
+    <artifactId>freemarker</artifactId>
+    <version>2.3.23</version>
+</dependency>
+<dependency>
     <groupId>log4j</groupId>
     <artifactId>apache-log4j-extras</artifactId>
     <version>1.1</version>
 </dependency>
   </dependencies>
-  <groupId>Sprint_Nature</groupId>
 </project>

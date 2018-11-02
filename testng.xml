@@ -2,7 +2,10 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="Suite">
-
+ <listeners>
+     <listener class-name="com.common.runtime.utils.ExtentReportListenerNG"/> 
+      
+</listeners>
  <test name="Test1">
   
     <classes>
