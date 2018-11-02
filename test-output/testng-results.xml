@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="127342" started-at="2018-11-02T13:54:20Z" finished-at="2018-11-02T13:56:28Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="127342" started-at="2018-11-02T13:54:20Z" finished-at="2018-11-02T13:56:28Z">
+      <class name="com.springersearchtest.SpringerSearch">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="setup" is-config="true" duration-ms="14088" started-at="2018-11-02T13:54:21Z" finished-at="2018-11-02T13:54:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchResult(java.lang.String)[pri:1, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="searchResult" duration-ms="4380" started-at="2018-11-02T13:54:35Z" data-provider="getTestData" finished-at="2018-11-02T13:54:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Advances in Gender and Cultural Research in Business and Economics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="tearDown" is-config="true" duration-ms="2454" started-at="2018-11-02T13:54:40Z" finished-at="2018-11-02T13:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="setup" is-config="true" duration-ms="9607" started-at="2018-11-02T13:54:42Z" finished-at="2018-11-02T13:54:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchResult(java.lang.String)[pri:1, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="searchResult" duration-ms="2782" started-at="2018-11-02T13:54:52Z" data-provider="getTestData" finished-at="2018-11-02T13:54:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Derek Sellman]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="tearDown" is-config="true" duration-ms="2119" started-at="2018-11-02T13:54:54Z" finished-at="2018-11-02T13:54:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="setup" is-config="true" duration-ms="8364" started-at="2018-11-02T13:54:57Z" finished-at="2018-11-02T13:55:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchResult(java.lang.String)[pri:1, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="searchResult" duration-ms="4028" started-at="2018-11-02T13:55:05Z" data-provider="getTestData" finished-at="2018-11-02T13:55:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Surface Rupture]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="tearDown" is-config="true" duration-ms="2208" started-at="2018-11-02T13:55:09Z" finished-at="2018-11-02T13:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="setup" is-config="true" duration-ms="9539" started-at="2018-11-02T13:55:11Z" finished-at="2018-11-02T13:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchResult(java.lang.String)[pri:1, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="searchResult" duration-ms="2979" started-at="2018-11-02T13:55:21Z" data-provider="getTestData" finished-at="2018-11-02T13:55:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2018 Edition]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="tearDown" is-config="true" duration-ms="2115" started-at="2018-11-02T13:55:24Z" finished-at="2018-11-02T13:55:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="setup" is-config="true" duration-ms="8115" started-at="2018-11-02T13:55:26Z" finished-at="2018-11-02T13:55:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchResult(java.lang.String)[pri:1, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="searchResult" duration-ms="4453" started-at="2018-11-02T13:55:34Z" data-provider="getTestData" finished-at="2018-11-02T13:55:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Führungspraxis]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="tearDown" is-config="true" duration-ms="2354" started-at="2018-11-02T13:55:38Z" finished-at="2018-11-02T13:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="setup" is-config="true" duration-ms="8113" started-at="2018-11-02T13:55:41Z" finished-at="2018-11-02T13:55:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchResult(java.lang.String)[pri:1, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="searchResult" duration-ms="4516" started-at="2018-11-02T13:55:49Z" data-provider="getTestData" finished-at="2018-11-02T13:55:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Beziehungsmanagement in der Führungspraxis]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="tearDown" is-config="true" duration-ms="2128" started-at="2018-11-02T13:55:53Z" finished-at="2018-11-02T13:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="setup" is-config="true" duration-ms="8840" started-at="2018-11-02T13:55:56Z" finished-at="2018-11-02T13:56:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchResult(java.lang.String)[pri:1, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="searchResult" duration-ms="3163" started-at="2018-11-02T13:56:04Z" data-provider="getTestData" finished-at="2018-11-02T13:56:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Positive Psychologie kompakt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="tearDown" is-config="true" duration-ms="2113" started-at="2018-11-02T13:56:08Z" finished-at="2018-11-02T13:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="setup" is-config="true" duration-ms="9383" started-at="2018-11-02T13:56:10Z" finished-at="2018-11-02T13:56:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchResult(java.lang.String)[pri:1, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="searchResult" duration-ms="6445" started-at="2018-11-02T13:56:19Z" data-provider="getTestData" finished-at="2018-11-02T13:56:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Die Reihe „Positive Psychologie kompakt“ schlägt eine Brücke zwischen Zweck. ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.springersearchtest.SpringerSearch@25bbe1b6]" name="tearDown" is-config="true" duration-ms="2202" started-at="2018-11-02T13:56:25Z" finished-at="2018-11-02T13:56:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.springersearchtest.SpringerSearch -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
